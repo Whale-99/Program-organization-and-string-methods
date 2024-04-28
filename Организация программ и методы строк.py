@@ -1,0 +1,7 @@
+text = input("Введите текст: ")
+print("Длина введённого текста", len(text), "символов")
+print(text.upper())
+print(text.lower())
+print(text.replace(" ", ""))
+print(text[0])
+print(text[-1])
